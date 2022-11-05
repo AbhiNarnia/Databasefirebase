@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "894679565161",
+    "project_id": "fir-authentication-73734",
+    "storage_bucket": "fir-authentication-73734.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894679565161:android:ac640898c34e6dc26773f8",
+        "android_client_info": {
+          "package_name": "com.abhi.databasefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894679565161-bov888plgltg0ueukj7n1e47c962546a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGf-yVFXtdgso3jd6remCICZF7pOE8FpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894679565161-bov888plgltg0ueukj7n1e47c962546a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
